@@ -17,15 +17,8 @@
 ---
 
 ### 🛡️ Sobre el Sistema
-**GiyuTomioka-Bot** es una herramienta de gestión y seguridad diseñada para WhatsApp. Bajo la disciplina del Pilar del Agua, este bot mantiene el orden en tus grupos eliminando amenazas y fomentando la interacción mediante un sistema de economía activa. Hecho con honor en **Venezuela 🇻🇪**.
+**GiyuTomioka-Bot** es una herramienta de gestión y seguridad diseñada para WhatsApp. Bajo la disciplina del Pilar del Agua, este bot mantiene el orden en tus grupos eliminando amenazas y fomentando la interacción mediante un sistema de economía activa.
 
 ### 🌊 Las Posturas (Funciones Principales)
-* 💧 **Primera Postura: Anti-Links** - Expulsión automática de intrusos que envían enlaces.
-* 💧 **Segunda Postura: Moderación** - Comandos potentes de `ban`, `kick` y `etiquetar`.
-* 💧 **Tercera Postura: Economía** - Sistema de niveles, minería y ruleta (`daily`, `minar`).
-* 💧 **Cuarta Postura: Diversión** - Creación de stickers (figus) y personalización de nicks.
-* 💧 **Quinta Postura: Creador** - Herramientas exclusivas como `antiprivado` y `revelarvisu`.
-
-### 🚀 Instalación
-```bash
-git clone
+* 💧 **Primera Postura: Anti-Links** - Expulsión
+* 
