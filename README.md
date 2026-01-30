@@ -29,8 +29,7 @@
 ---
 
 ### 🚀 Instalación en Termux
-*Copia y pega cada comando por separado (usa el botón de la derecha):*
+*Copia y pega este bloque completo para instalar todo automáticamente:*
 
-1. **Actualizar sistema:**
 ```bash
-apt update && apt upgrade -y
+apt update && apt upgrade -y && pkg install git nodejs ffmpeg -y && git clone [https://github.com/GabrielVB26/GiyuTomiokaBot-MD](https://github.com/GabrielVB26/GiyuTomiokaBot-MD) && cd GiyuTomiokaBot-MD && npm install && npm start
