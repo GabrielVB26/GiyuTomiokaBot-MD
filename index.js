@@ -1997,7 +1997,7 @@ if (isGroup && isAntiLink && !isGroupAdmins && !isOwner) {
 
  e = String(e)
 if (!e.includes("this.isZero") && !e.includes("Could not find MIME for Buffer <null>") && !e.includes("Cannot read property 'conversation' of null") && !e.includes("Cannot read property 'contextInfo' of undefined") && !e.includes("Cannot set property 'mtype' of undefined") && !e.includes("jid is not defined")) {
-console.log('Giyu Tomioka'))
+console.log('Giyu Tomioka')
 }
  
  }   
