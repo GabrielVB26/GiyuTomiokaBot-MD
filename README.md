@@ -1,11 +1,7 @@
 # 🌊 Giyu Tomioka Bot-MD ⚔️
 
 <p align="center">
-  <img src="https://socialify.git.ci/GabrielVB26/GiyuTomiokaBot-MD/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" width="600">
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/CxCb7HjH/9d10aafef18b9f6c83ad841de1bee9cb.jpg" width="350" alt="Giyu Tomioka">
+  <img src="https://i.postimg.cc/CxCb7HjH/9d10aafef18b9f6c83ad841de1bee9cb.jpg" width="400" alt="Giyu Tomioka">
 </p>
 
 <p align="center">
@@ -32,7 +28,4 @@
 
 ### 🚀 Instalación
 ```bash
-git clone [https://github.com/GabrielVB26/GiyuTomiokaBot-MD](https://github.com/GabrielVB26/GiyuTomiokaBot-MD)
-cd GiyuTomiokaBot-MD
-npm install
-npm start
+git clone
