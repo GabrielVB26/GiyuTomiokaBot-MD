@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <b>Creador Original:</b> <a href="https://github.com/NaufraZapp">NaufraZapp</a> 🛠️ | 
+  <b>Personalizado por:</b> <a href="https://github.com/GabrielVB26">GabrielVB26</a> 🇻🇪
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/VERSIÓN-2.0.0-blue?style=for-the-badge" alt="Versión">
   <img src="https://img.shields.io/badge/SEGURIDAD-MÁXIMA-cyan?style=for-the-badge" alt="Seguridad">
   <img src="https://img.shields.io/badge/ESTADO-OPERATIVO-brightgreen?style=for-the-badge" alt="Estado">
@@ -22,14 +27,14 @@
 ### 🌊 Las Posturas (Funciones Principales)
 * 💧 **Primera Postura: Anti-Links** - Expulsión automática de intrusos.
 * 💧 **Segunda Postura: Moderación** - Comandos potentes de `ban`, `kick` y `etiquetar`.
-* 💧 **Tercera Postura: Economía** - Sistema de niveles, minería y ruleta.
+* 💧 **Third Postura: Economía** - Sistema de niveles, minería y ruleta.
 * 💧 **Cuarta Postura: Diversión** - Creación de stickers (figus) y nicks.
 * 💧 **Quinta Postura: Creador** - Herramientas como `antiprivado` y `revelarvisu`.
 
 ---
 
 ### 🚀 Instalación Automática (Termux)
-*Copia y pega este comando único para instalar y encender el bot:*
+*Copia y pega este comando único para instalar y encender el bot de una vez:*
 
 ```bash
 apt update && apt upgrade -y && pkg install git nodejs ffmpeg -y && git clone [https://github.com/GabrielVB26/GiyuTomiokaBot-MD](https://github.com/GabrielVB26/GiyuTomiokaBot-MD) && cd GiyuTomiokaBot-MD && npm install && npm start
