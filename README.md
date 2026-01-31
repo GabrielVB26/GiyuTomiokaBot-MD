@@ -16,20 +16,21 @@
 </p>
 
 <p align="center">
-  <i>"La calma es la esencia de la fuerza. Proteger a los débiles es el deber de los fuertes."</i>
+  <i>"No llores, no te desesperes. Esas cosas no cambiarán nada."</i>
 </p>
 
 ---
 
 ### 🛡️ Sobre el Sistema
-**GiyuTomiokaBot-MD** es una herramienta de gestión y seguridad diseñada para WhatsApp. Bajo la disciplina del Pilar del Agua, este bot mantiene el orden en tus grupos eliminando amenazas y fomentando la interacción mediante un sistema de economía activa. Optimizado por **Gabriel** para un flujo constante.
+**GiyuTomiokaBot-MD** es una herramienta de gestión y seguridad diseñada para WhatsApp. Bajo la disciplina del Pilar del Agua, este bot mantiene el orden en tus grupos eliminando amenazas y fomentando la interacción mediante un sistema de economía activa. Optimizado por **Gabriel** para un flujo constante y sin errores.
 
-### 🌊 Las Posturas (Funciones Principales)
-* 💧 **Primera Postura: Anti-Links** - Expulsión automática de intrusos y spam.
-* 💧 **Segunda Postura: Moderación** - Comandos potentes de `ban`, `kick` y `tagall`.
-* 💧 **Tercera Postura: Economía** - Sistema de niveles, XP, minería y ruleta.
-* 💧 **Cuarta Postura: Diversión** - Creación de stickers (figus), nicks y multimedia.
-* 💧 **Quinta Postura: Creador** - Herramientas de control total como `antiprivado` y `owner`.
+### 🌊 Las 06 Técnicas de Combate (Menú)
+* 💧 **Técnica 01: Administración** - Control total de grupos (`ban`, `kick`, `antilink`, `invocar`).
+* 💧 **Técnica 02: Creador (Hashira)** - Herramientas exclusivas para el dueño (`antiprivado`, `reiniciar`, `apagar`).
+* 💧 **Técnica 03: Información** - Estado del sistema y perfil del guerrero (`ping`, `perfil`, `serbot`).
+* 💧 **Técnica 04: Multimedia (Figus)** - Creación de stickers y artes visuales (`s`, `attp`, `emojimix`).
+* 💧 **Técnica 05: Herramientas** - Utilidades de apoyo (`ia`, `chatgpt`, `toimg`, `calc`).
+* 💧 **Técnica 06: Economía / RPG** - Entrenamiento y fortuna (`minar`, `pescar`, `ruleta`, `nivel`).
 
 ---
 
