@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <b>Creador Original:</b> <a href="https://github.com/NaufraZapp">NaufraZapp</a> 🛠️ | 
-  <b>Personalizado por:</b> <a href="https://github.com/GabrielVB26">GabrielVB26</a> 🇻🇪
+  <b>Personalizado por:</b> <a href="https://github.com/GabrielVB26">GabrielVB26</a> 🇻🇪 | 
+  <b>Creador de la Base:</b> <a href="https://github.com/NaufraZapp">NaufraZapp</a> 🛠️
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ---
 
 ### 🛡️ Sobre el Sistema
-**GiyuTomiokaBot-MD** es una herramienta de gestión y seguridad diseñada para WhatsApp. Bajo la disciplina del Pilar del Agua, este bot mantiene el orden en tus grupos eliminando amenazas y fomentando la interacción mediante un sistema de economía activa. Basado en la tecnología de **NaufraBot**, optimizado para el flujo constante.
+**GiyuTomiokaBot-MD** es una herramienta de gestión y seguridad diseñada para WhatsApp. Bajo la disciplina del Pilar del Agua, este bot mantiene el orden en tus grupos eliminando amenazas y fomentando la interacción mediante un sistema de economía activa. Optimizado por **Gabriel** para un flujo constante.
 
 ### 🌊 Las Posturas (Funciones Principales)
 * 💧 **Primera Postura: Anti-Links** - Expulsión automática de intrusos y spam.
