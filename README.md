@@ -28,16 +28,35 @@ No necesita muchas palabras. El bot cumple su deber con exactitud:
 
 ---
 
+## 📲 **¿No tienes Termux? No te preocupes, aquí está**
+
+**Termux** es una aplicación que convierte tu teléfono Android en una **terminal Linux**, permitiéndote ejecutar comandos, instalar paquetes y ejecutar proyectos como **GiyuTomiokaBot-MD** directamente desde tu móvil, sin necesidad de una PC.
+
+Con Termux podrás:
+
+- ⚙️ Ejecutar **Node.js** y dependencias del bot  
+- 🧠 Usar comandos como `git`, `npm`, `ffmpeg`, `wget`, etc.  
+- 🤖 Mantener el bot activo directamente desde Android  
+- 🌊 Controlar todo el flujo del bot como un verdadero Hashira  
+
+### 🔹 Descargar Termux desde la Play Store
+
+🔗 **Google Play Store**  
+https://play.google.com/store/apps/details?id=com.termux
+
+> ⚠️ **Nota importante**  
+> La versión de Play Store puede tener limitaciones.  
+> Para mayor compatibilidad y estabilidad se **recomienda usar Termux desde F-Droid**.
+
+---
+
 ## 🌀 **INSTALACIÓN EN TERMUX (Respiración del Agua)**
 
-Para que el flujo del agua no se interrumpa, es obligatorio usar **Termux desde F-Droid**.
+Para que el flujo del agua no se interrumpa, es obligatorio usar **Termux**.
 
 ---
 
 ### ⚡ **Opción 1: Instalación Automática (Todo en uno)**
-
-Esta opción ejecuta **TODOS los comandos en una sola línea**:  
-actualiza Termux, instala dependencias, clona el repositorio e inicia el bot automáticamente.
 
 ```bash
 pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && termux-setup-storage && git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD && cd GiyuTomiokaBot-MD && npm install && node index
@@ -48,8 +67,6 @@ pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs-lts 
 ---
 
 ### 🛠️ **Opción 2: Instalación Manual (Paso a Paso)**
-
-Recomendada si deseas control total del proceso.
 
 #### 1️⃣ Actualizar Termux
 ```bash
