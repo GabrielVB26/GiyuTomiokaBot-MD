@@ -15,42 +15,32 @@
 
 ## 🌊 **¿Qué es GiyuTomiokaBot-MD?**
 
-🛡️ **GiyuTomiokaBot-MD** es un guardián de WhatsApp forjado para la eficiencia y la calma. Basado en la tecnología de **NaufraBot**, esta versión ha sido refinada por **Gabriel** para ofrecer un rendimiento superior, comandos letales y una estabilidad digna de un Hashira.
+🛡️ **GiyuTomiokaBot-MD** es un guardián de WhatsApp forjado para la eficiencia y la calma. Basado en la tecnología de **NaufraBot**, esta versión ha sido refinada por **Gabriel-V** para ofrecer un rendimiento superior, comandos letales y una estabilidad digna de un Hashira. 
 
-- 🚀 **Concentración Total**: Basado en la última versión de **Baileys**.
-- 💬 **Entrenamiento RPG**: Juegos y niveles integrados.
+No necesito muchas palabras. El bot cumple su deber con precisión:
+
+- 🚀 **Concentración Total**: Ejecución optimizada bajo la última versión de **Baileys**.
+- 💬 **Entrenamiento RPG**: Sistema de niveles y reputación integrado.
 - 🧩 **Sello Personal**: 100% personalizable por el usuario.
-- 📦 **Arte de Guerra**: Descargas rápidas de videos, música y stickers.
-- 🤖 **Sabiduría Ancestral**: Funciones con IA integradas.
-- 🛡️ **Calma en el Grupo**: Protección avanzada AntiLink y AntiSpam.
+- 🤖 **Sabiduría Ancestral**: Funciones avanzadas con Inteligencia Artificial.
+- 🛡️ **Calma en el Grupo**: Protección absoluta con AntiLink y AntiSpam.
 
 ---
 
 # 🌀 INSTALACIÓN EN TERMUX (Misión de Rango S)
 
-* Instala Termux desde F-Droid para evitar conflictos de paquetes.
+Para que el agua fluya, el entorno debe ser el adecuado. Usa Termux desde F-Droid.
 
-> [!IMPORTANT]
-> Ejecuta los comandos uno por uno. No te apresures; el agua fluye con calma pero con firmeza.
+### ⚡ Opción 1: Instalación Automática (Ejecución Instantánea)
+Copia y pega este comando único. Realizará todo el proceso de preparación e iniciará el bot inmediatamente. No te distraigas.
 
+```bash
+pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install nodejs -y && pkg install wget -y && pkg install tesseract -y && termux-setup-storage && git clone [https://github.com/GabrielVB26/GiyuTomiokaBot-MD](https://github.com/GabrielVB26/GiyuTomiokaBot-MD) && cd GiyuTomiokaBot-MD && npm install && node index
+
+### 🛠️ Opción 2: Instalación Manual (Paso a Paso)
+
+Si prefieres mantener la calma y supervisar cada movimiento, ejecuta los comandos uno por uno:
+
+1. **Preparar el entorno:**
 ```bash
 pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install nodejs -y && pkg install wget -y && pkg install tesseract -y
-```
-
-```bash
-termux-setup-storage
-```
-
-```bash
-cd /sdcard && git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD/edit/main/README.md
-```
-
-```bash
-cd GiyuTomiokaBot-MD
-
-```
-
-```bash
-node index
-```
-
