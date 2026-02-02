@@ -13,102 +13,96 @@
 
 ---
 
-## 🌊 **¿Qué es GiyuTomiokaBot-MD?**
+## 🌊 ¿Qué es GiyuTomiokaBot-MD?
 
-🛡️ **GiyuTomiokaBot-MD** es un guardián de WhatsApp forjado para la eficiencia y la calma.  
-Basado en la tecnología de **NaufraBot**, esta versión ha sido refinada por **Gabriel-V** para ofrecer un rendimiento superior, comandos precisos y una estabilidad digna de un Hashira.
+🛡️ GiyuTomiokaBot-MD es un bot de WhatsApp inspirado en la calma y precisión del Hashira del Agua.  
+Basado en NaufraBot y refinado por Gabriel-V para ofrecer estabilidad, potencia y control total.
 
-No necesita muchas palabras. El bot cumple su deber con exactitud:
-
-- 🚀 **Concentración Total**: Ejecución optimizada con la última versión de **Baileys**.
-- 💬 **Entrenamiento RPG**: Sistema de niveles y reputación integrado.
-- 🧩 **Sello Personal**: Totalmente personalizable.
-- 🤖 **Sabiduría Ancestral**: Funciones avanzadas con Inteligencia Artificial.
-- 🛡️ **Calma en el Grupo**: Protección con AntiLink y AntiSpam.
+Funciones principales:
+- 🚀 Baileys optimizado
+- 💬 Sistema RPG
+- 🤖 Inteligencia Artificial
+- 🛡️ AntiLink y AntiSpam
+- 🧩 Totalmente personalizable
 
 ---
 
-## 📲 **¿No tienes Termux? No te preocupes, aquí está**
+## 🌀 INSTALACIÓN EN TERMUX
 
-**Termux** es una aplicación que convierte tu teléfono Android en una **terminal Linux**, permitiéndote ejecutar comandos, instalar paquetes y ejecutar proyectos como **GiyuTomiokaBot-MD** directamente desde tu móvil, sin necesidad de una PC.
+---
 
-Con Termux podrás:
+### 🚀⚡ INSTALACIÓN AUTOMÁTICA (TODO EN UNO)
 
-- ⚙️ Ejecutar **Node.js** y dependencias del bot  
-- 🧠 Usar comandos como `git`, `npm`, `ffmpeg`, `wget`, etc.  
-- 🤖 Mantener el bot activo directamente desde Android  
-- 🌊 Controlar todo el flujo del bot como un verdadero Hashira  
+Ideal si quieres instalar rápido sin complicaciones.
 
-### 🔹 Descargar Termux desde la Play Store
+pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && termux-setup-storage && git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD && cd GiyuTomiokaBot-MD && npm install && node index
 
-🔗 **Google Play Store**  
+Escanea el QR y el bot quedará activo.
+
+---
+
+### 🛠️🧩 INSTALACIÓN MANUAL (PASO A PASO)
+
+Recomendado si deseas mayor control del proceso.
+
+1️⃣ Actualizar Termux  
+pkg update -y && pkg upgrade -y
+
+2️⃣ Instalar dependencias  
+pkg install git nodejs-lts ffmpeg wget tesseract -y
+
+3️⃣ Permitir almacenamiento  
+termux-setup-storage
+
+4️⃣ Clonar repositorio  
+git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD
+
+5️⃣ Entrar al directorio  
+cd GiyuTomiokaBot-MD
+
+6️⃣ Instalar dependencias  
+npm install
+
+7️⃣ Iniciar el bot  
+node index
+
+---
+
+## 🌊🔄 Reactivar el bot si Termux se cierra o el teléfono se apaga
+
+cd GiyuTomiokaBot-MD  
+node index
+
+---
+
+## ♾️ Mantener el bot siempre encendido (RECOMENDADO)
+
+### 🛡️🔋 Evitar que Termux se suspenda
+
+Ejecuta este comando **ANTES de iniciar el bot**:
+
+termux-wake-lock
+
+Este comando evita que Android duerma Termux, manteniendo el bot activo incluso con la pantalla apagada.
+
+Luego inicia el bot normalmente:
+
+node index
+
+> Para liberar el bloqueo (opcional):  
+> termux-wake-unlock
+
+---
+
+## 📲 ¿No tienes Termux? No te preocupes
+
+Termux convierte tu Android en una terminal Linux para ejecutar el bot sin necesidad de PC.
+
+🔗 Google Play Store  
 https://play.google.com/store/apps/details?id=com.termux
 
-> ⚠️ **Nota importante**  
-> La versión de Play Store puede tener limitaciones.  
-> Para mayor compatibilidad y estabilidad se **recomienda usar Termux desde F-Droid**.
+⚠️ Para mayor estabilidad se recomienda instalar Termux desde F-Droid.
 
 ---
 
-## 🌀 **INSTALACIÓN EN TERMUX (Respiración del Agua)**
-
-Para que el flujo del agua no se interrumpa, es obligatorio usar **Termux**.
-
----
-
-### ⚡ **Opción 1: Instalación Automática (Todo en uno)**
-
-```bash
-pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && termux-setup-storage && git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD && cd GiyuTomiokaBot-MD && npm install && node index
-```
-
-⏳ Espera a que finalice y **escanea el QR** para conectar WhatsApp.
-
----
-
-### 🛠️ **Opción 2: Instalación Manual (Paso a Paso)**
-
-#### 1️⃣ Actualizar Termux
-```bash
-pkg update -y && pkg upgrade -y
-```
-
-#### 2️⃣ Instalar dependencias
-```bash
-pkg install git -y
-pkg install nodejs-lts -y
-pkg install ffmpeg -y
-pkg install wget -y
-pkg install tesseract -y
-```
-
-#### 3️⃣ Permitir acceso al almacenamiento
-```bash
-termux-setup-storage
-```
-
-#### 4️⃣ Clonar el repositorio
-```bash
-git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD
-```
-
-#### 5️⃣ Entrar al directorio
-```bash
-cd GiyuTomiokaBot-MD
-```
-
-#### 6️⃣ Instalar dependencias
-```bash
-npm install
-```
-
-#### 7️⃣ Iniciar el bot
-```bash
-node index
-```
-
-📱 Escanea el **código QR** y el Hashira del Agua quedará activo.
-
----
-
-🌊⚔️ *El silencio también es poder. GiyuTomiokaBot-MD cumple su deber.* ⚔️🌊
+🌊⚔️ El silencio también es poder. GiyuTomiokaBot-MD cumple su deber. ⚔️🌊
