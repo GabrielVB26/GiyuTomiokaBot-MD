@@ -22,13 +22,13 @@ Basado en **NaufraBot** y refinado por **Gabriel-V**, está diseñado para ofrec
 
 ### ✨ Funciones principales
 
-- 🖼️ **Creación de Stickers**: Convierte imágenes y videos en stickers fácilmente  
-- ⚔️ **Sistema de Niveles de Cazadores**: Progreso, rangos y reputación estilo Kimetsu  
-- 🧠 **RPG de Batallas**: Enfréntate a las **Lunas Demoníacas** y sube de nivel  
-- 📣 **Invocar y Etiquetar**: Menciona usuarios o a todos con comandos especiales  
-- 🎉 **Mensajes de Bienvenida**: Etiqueta automáticamente a los nuevos miembros  
-- 🤖 **Funciones con Inteligencia Artificial**  
-- 🛡️ **Protección de Grupos**: AntiLink, AntiSpam y control total  
+- 🖼️ **Creación de Stickers** (imágenes y videos)
+- ⚔️ **Sistema de Niveles de Cazadores**
+- 🧠 **RPG de Batallas** contra las **Lunas Demoníacas**
+- 📣 **Invocar y Etiquetar** usuarios o a todos
+- 🎉 **Mensajes de Bienvenida** con etiquetas automáticas
+- 🤖 **Funciones con Inteligencia Artificial**
+- 🛡️ **Protección de Grupos** (AntiLink y AntiSpam)
 - 🧩 **Altamente Personalizable**
 
 ---
@@ -45,7 +45,7 @@ Ideal si quieres instalar rápido sin complicaciones.
 pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && termux-setup-storage && git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD && cd GiyuTomiokaBot-MD && npm install && node index
 ```
 
-📱 Escanea el **QR** y el bot quedará activo.
+📱 Cuando se te solicite, **ingresa tu número de teléfono de WhatsApp** para vincular el bot.
 
 ---
 
@@ -85,6 +85,8 @@ npm install
 ```bash
 node index
 ```
+
+📲 Ingresa tu **número de teléfono** cuando el sistema lo solicite.
 
 ---
 
