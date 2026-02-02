@@ -45,4 +45,93 @@ Ideal si quieres instalar rápido sin complicaciones.
 pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && termux-setup-storage && git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD && cd GiyuTomiokaBot-MD && npm install && node index
 ```
 
-📱 Cuando se te solicite, **ingresa tu número de teléfono de WhatsApp** para vincular el
+📱 Cuando se te solicite, **ingresa tu número de teléfono de WhatsApp** para vincular el bot.
+
+---
+
+### 🛠️🧩 INSTALACIÓN MANUAL (PASO A PASO)
+
+#### 1️⃣ Actualizar Termux
+```bash
+pkg update -y && pkg upgrade -y
+```
+
+#### 2️⃣ Instalar dependencias
+```bash
+pkg install git nodejs-lts ffmpeg wget tesseract -y
+```
+
+#### 3️⃣ Permitir almacenamiento
+```bash
+termux-setup-storage
+```
+
+#### 4️⃣ Clonar el repositorio
+```bash
+git clone https://github.com/GabrielVB26/GiyuTomiokaBot-MD
+```
+
+#### 5️⃣ Entrar al directorio
+```bash
+cd GiyuTomiokaBot-MD
+```
+
+#### 6️⃣ Instalar dependencias
+```bash
+npm install
+```
+
+#### 7️⃣ Iniciar el bot
+```bash
+node index
+```
+
+📲 Ingresa tu **número de teléfono** cuando el sistema lo solicite.
+
+---
+
+## 🌊🔄 Reactivar el bot si Termux se cierra o el teléfono se apaga
+
+```bash
+cd GiyuTomiokaBot-MD
+node index
+```
+
+---
+
+## ♾️ Mantener el bot siempre encendido (RECOMENDADO)
+
+### 🛡️🔋 Evitar que Termux se suspenda
+
+Ejecuta **ANTES de iniciar el bot**:
+
+```bash
+termux-wake-lock
+```
+
+Luego inicia el bot normalmente:
+
+```bash
+node index
+```
+
+Para liberar el bloqueo (opcional):
+
+```bash
+termux-wake-unlock
+```
+
+---
+
+## 📲 ¿No tienes Termux? No te preocupes
+
+**Termux** convierte tu Android en una terminal Linux para ejecutar el bot sin necesidad de PC.
+
+🔗 **Google Play Store**  
+https://play.google.com/store/apps/details?id=com.termux
+
+⚠️ Para mayor estabilidad se recomienda instalar Termux desde **F-Droid**.
+
+---
+
+🌊⚔️ *El silencio también es poder. GiyuTomiokaBot-MD cumple su deber.* ⚔️🌊
